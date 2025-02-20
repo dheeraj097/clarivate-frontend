@@ -34,3 +34,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 Visit http://localhost:3002/ or the url that npm run start gives, it was 3002 in my case
 the UI should look something like this
 
+![image](https://github.com/user-attachments/assets/9ff1f0af-9007-44ed-b4d6-50fe4195f250)
